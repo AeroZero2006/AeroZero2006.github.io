@@ -7,6 +7,6 @@
 
 # 视频网站
 
-[AcFun](https://www.acfun.cn/u/63219615)  
-[Bilibili](https://space.bilibili.com/588710168)
-[Youtube](https://www.youtube.com/channel/UCgVCFr2is2uPdku10oEyhhw)
+AcFun[AeroZero航空零](https://www.acfun.cn/u/63219615)  
+Bilibili[AeroZero航空零](https://space.bilibili.com/588710168)  
+Youtube[AeroZero航空零](https://www.youtube.com/channel/UCgVCFr2is2uPdku10oEyhhw)
