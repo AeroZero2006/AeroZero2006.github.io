@@ -12,15 +12,3 @@ Bilibili:[AeroZero航空零](https://space.bilibili.com/588710168)
 Youtube:[AeroZero航空零](https://www.youtube.com/channel/UCgVCFr2is2uPdku10oEyhhw)
 
 关注一下吧
-
-
-<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-    <startup> 
-        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
-    </startup>
-  <appSettings>
-    <add key="Up_id" value="107065883" />
-    <add key="ClientSettingsProvider.ServiceUri" value="" />
-  </appSettings>
-</configuration>
